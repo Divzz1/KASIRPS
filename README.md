@@ -25,7 +25,7 @@ cd KASIRPS
 ```
 Kemudian jalankan project sesuai dengan konfigurasi yang digunakan.
 
-## 📚 Hal yang Saya Pelajari
+## Hal yang Saya Pelajari
 Selama mengerjakan project ini, saya belajar tentang:
 * Dasar-dasar pemrograman
 * Penggunaan Git dan GitHub
@@ -49,7 +49,7 @@ Ini adalah project pertama saya, jadi masih banyak kekurangan yang mungkin ditem
 Namun, saya percaya bahwa project pertama tidak harus sempurna.
 Yang paling penting adalah **memulai, belajar dari kesalahan, dan terus berkembang.**
 
-## ⭐ Dukungan
+## Dukungan
 Jika project ini menurut Anda menarik atau bermanfaat, jangan ragu untuk memberikan ⭐ pada repository ini.
 ---
 ### Project pertama. Langkah pertama. Masih banyak yang akan datang.
