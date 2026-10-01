@@ -13,6 +13,8 @@ Project ini saya buat sebagai media untuk:
 
 ## Bahasa pemrograman yang saya gunakan
 * [PHP]
+* [JavaScript]
+* [CSS]
 
 ## Cara Menjalankan
 Clone repository ini:
