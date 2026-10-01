@@ -53,5 +53,5 @@ Yang paling penting adalah **memulai, belajar dari kesalahan, dan terus berkemba
 
 ## Dukungan
 Jika project ini menurut Anda menarik atau bermanfaat, jangan ragu untuk memberikan ⭐ pada repository ini.
----
+
 ### Project pertama. Langkah pertama. Masih banyak yang akan datang.
